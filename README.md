@@ -8,6 +8,6 @@ This project is a modern and responsive beauty and skincare product website crea
   - HTML5
   - CSS3
 * PURPOSE
- - The project was created as a front-end development practice project to demonstarte my ability to design and built responsive websites.
+    The project was created as a front-end development practice project to demonstarte my ability to design and built responsive websites.
 * AUTHOR
  -Monika Khatiwada 
