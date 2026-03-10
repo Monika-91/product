@@ -1,6 +1,6 @@
 # BEAUTY PRODUCT WEBSITE
 This project is a modern and responsive beauty and skincare product website created using HTML and CSS. The website is designed to showcase beauty product with clean layout and elegant design.
-* fEATURES
+* FEATURES
   - Responsive landing page design
   - Modern and clean user interface
   - product-focused layout
